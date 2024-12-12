@@ -1,0 +1,2 @@
+# AI_SERVICE
+2024-2 KUBIG Conference
